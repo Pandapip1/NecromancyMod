@@ -8,6 +8,8 @@ Pandapip1's Necromany Mod is a mod that allows the Impostors (Necromancers) to s
 
 Download the mod here: https://github.com/Pandapip1/NecromanyMod/raw/main/Pandapip1s_Necromancy_mod-2020.12.9s.dll
 
+Download the source here: https://github.com/Pandapip1/NecromanyMod/raw/main/Pandapip1s_Necromancy_mod.zip
+
 ### Using the Source code or the mod
 
 Please credit me somewhere noticeable (E.G. A video's description or the top pinned comment if you are using the mod in a video, or next to the download link if you are distributing a modified mod)
