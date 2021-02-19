@@ -17,3 +17,7 @@ Please credit me somewhere noticeable (E.G. A video's description or the top pin
 ### Installing the mod
 
 Download the mod (It's OK, it's not dangerous) and Dropship (https://github.com/NuclearPowered/Dropship/releases/tag/v0.1.6, again, not dangerous). Dropship will give you warnings, but click autodetect and click Install BepInEx. Then, once it installs it, go to the folder it autodetected, then go to the `BepInEx` folder, then go to the `plugins` folder and copy `Pandapip1s_Necromancy_mod-2020.12.9s.dll` into that folder.
+
+### DISCLAIMER
+
+THIS MOD WILL ***NOT*** WORK ON THE AMONG US PUBLIC SERVERS!!! HOST YOUR OWN IMPOSTOR SERVER: http://github.com/nuclearPowered/Impostor!!!
