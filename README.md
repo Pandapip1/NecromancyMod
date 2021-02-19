@@ -20,6 +20,4 @@ Download the mod (It's OK, it's not dangerous) and Dropship (https://github.com/
 
 ### DISCLAIMER
 
-THIS MOD WILL ***NOT*** WORK ON THE AMONG US PUBLIC SERVERS!!! HOST YOUR OWN IMPOSTOR SERVER!
-
-http://github.com/nuclearPowered/Impostor
+THIS MOD WILL ***NOT*** WORK ON THE AMONG US PUBLIC SERVERS!!! HOST GAMES LOCALLY AND IF NEEDBE USE https://zerotier.com/!
