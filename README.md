@@ -13,3 +13,7 @@ Download the source here: https://github.com/Pandapip1/NecromanyMod/raw/main/Pan
 ### Using the Source code or the mod
 
 Please credit me somewhere noticeable (E.G. A video's description or the top pinned comment if you are using the mod in a video, or next to the download link if you are distributing a modified mod)
+
+### Installing the mod
+
+Download the mod (It's OK, it's not dangerous) and Dropship (https://github.com/NuclearPowered/Dropship/releases/tag/v0.1.6, again, not dangerous). Dropship will give you warnings, but click autodetect and click Install BepInEx. Then, once it installs it, go to the folder it autodetected, then go to the `BepInEx` folder, then go to the `plugins` folder and copy `Pandapip1s_Necromancy_mod-2020.12.9s.dll` into that folder.
