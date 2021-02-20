@@ -12,7 +12,7 @@ Download the source here: https://github.com/Pandapip1/NecromanyMod/raw/main/Pan
 
 ### Using the Source code or the mod
 
-Please credit me (Pandapip1#8943) and LuFrickey#6151 (the creator of the Zap image) somewhere noticeable (E.G. A video's description or the top pinned comment if you are using the mod in a video, or next to the download link if you are distributing a modified mod)
+Please credit me (Pandapip1#8943) and LuFrickey#6151 (the creator of the button images) somewhere noticeable (E.G. A video's description or the top pinned comment if you are using the mod in a video, or next to the download link if you are distributing a modified mod)
 
 ### Installing the mod
 
