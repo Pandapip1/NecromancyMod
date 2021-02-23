@@ -16,7 +16,7 @@ Please credit me (Pandapip1#8943) and LuFrickey#6151 (the creator of the button 
 
 ### Installing the mod
 
-Download the mod (It's OK, it's not dangerous) and Dropship (https://github.com/NuclearPowered/Dropship/releases/tag/v0.1.6, again, not dangerous). Dropship will give you warnings, but click autodetect and click Install BepInEx. Then, once it installs it, go to the folder it autodetected, then go to the `BepInEx` folder, then go to the `plugins` folder and copy `Pandapip1s_Necromancy_mod-2020.12.9s.dll` into that folder.
+Download and install https://github.com/NuclearPowered/Dropship/releases/tag/v0.1.6, then search for 'Necromancy Mod' in browse mods and install it!
 
 ### DISCLAIMER
 
