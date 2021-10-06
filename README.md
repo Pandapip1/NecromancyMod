@@ -1,5 +1,7 @@
 # NecromanyMod
 
+### This repository is unmaintained.
+
 [![Image](https://github.com/Pandapip1/NecromanyMod/blob/main/Necromancy%20Mod%20Demo%20(1).gif?raw=true "Necromany Mod Demo 1")](https://www.youtube.com/watch?v=2syzUGl2v-s)
 
 (Please note: This video is from a *way* earlier version)
